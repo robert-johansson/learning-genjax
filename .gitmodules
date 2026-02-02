@@ -1,0 +1,3 @@
+[submodule "genjax-mcp"]
+	path = genjax-mcp
+	url = https://github.com/robert-johansson/genjax-mcp
